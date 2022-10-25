@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+### 🙋‍♀ Short introduction
+
+✨ Welcome ✨
+This is our demo organization for KubeCon 2022.
+
+### 👩‍💻 Useful resources
+Stay tuned til after KubeCon.
+You can find our live demo in this org's [Stork repository](github.com/stork-kubecon22/stork)
+
+See you at KubeCon
 <!--
 
 **Here are some ideas to get you started:**
