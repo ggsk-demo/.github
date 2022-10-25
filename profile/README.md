@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![!kubecon22title](../KubeCon22Title.png)
+![!kubecon22title](https://github.com/stork-kubecon22/.github/KubeCon22Title.png)
 ### 🙋‍♀ Short introduction
 
 ✨ Welcome ✨
