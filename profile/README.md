@@ -1,14 +1,13 @@
 ## Hi there 👋
 
-![!kubecon22title](https://github.com/stork-kubecon22/.github/blob/main/KubeCon22Title.png)
 ### 🙋‍♀ Short introduction
 
 ✨ Welcome ✨
-This is our demo organization for KubeCon 2022.
+This is our demo organization for 2022.
 
 ### 👩‍💻 Useful resources
-Stay tuned til after KubeCon.
-You can find our live demo in this org's [Stork repository](github.com/stork-kubecon22/stork)
+Stay tuned til after KubeCon & FINOS OSSF.
+You can find our live demo in this org's [Stork repository](github.com/ggsk-demo/stork)
 
 See you at KubeCon
 <!--
