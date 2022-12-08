@@ -9,7 +9,7 @@ This is our demo organization for 2022.
 Stay tuned til after KubeCon & FINOS OSSF.
 You can find our live demo in this org's [Stork repository](github.com/ggsk-demo/stork)
 
-See you at KubeCon
+See you at KubeCon and/or FINOS OSSF!
 <!--
 
 **Here are some ideas to get you started:**
